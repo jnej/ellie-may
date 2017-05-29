@@ -1,28 +1,26 @@
-h1 {
-  text-align: center;
-  color: #eb1e23;
+body {
   font-family: sans-serif;
-  font-weight: bold;
-}
-
-h2 {
   text-align: center;
-  color: #201d56;
-  font-family: sans-serif;
-}
-
-h3 {
-  text-align: center;
-  color: #201d56;
-  font-family: sans-serif;
-}
-
-p {
-  text-align: center;
-  color: #131514;
 }
 
 ul {
-  text-align: center;
-  color: #131514;
+text-align: left;
+}
+
+#black {
+  background-color: #333333;
+}
+#white {
+  background-color: white;
+  color: #333333;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+  color: #333333;
 }
