@@ -1,18 +1,10 @@
-# _Ellie-May_
+# _Pet Website_
 
-#### _My pet website, 16/5/17_
+#### _Practice basic HTML webpages, with special attention toward spacing and indentation_
 
-#### By _**Amanda Johnson**_
-
-## Description
-
-Epicodus exercise for week one.  My pet website.  A website dedicated to my beloved dog.
+#### By _**Amanda**_
 
 ## Technologies Used
 
 * HTML
 * CSS
-
-### License
-
-Copyright (c) 2017 **_Amanda Johnson_**
